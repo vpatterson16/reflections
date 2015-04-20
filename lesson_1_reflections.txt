@@ -1,0 +1,5 @@
+It minimized the amount of information and provided information to quickly compare that was different.
+
+It can help you view older versions of code that may have been acidentally removed.
+
+Saving multiple files allow for you to correlate changes accross them all and handle the dependencies.  This isn't needed in googleDocs or some other environments because the files usually are not correlated.
